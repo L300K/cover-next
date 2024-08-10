@@ -33,7 +33,7 @@
 // @match        https://bearbit.co/details.php*
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
-// @require      https://raw.githubusercontent.com/kon3ko/cover-next/master/dist/cover-next.js?version=2.16
+// @require      https://raw.githubusercontent.com/L300K/cover-next/master/dist/cover-next.js?version=2.16
 // @updateURL    https://raw.githubusercontent.com/kon3ko/cover-next/master/cover-next.user.js
 // @downloadURL  https://raw.githubusercontent.com/kon3ko/cover-next/master/cover-next.user.js
 // @supportURL   https://github.com/kon3ko/cover-next/issues
